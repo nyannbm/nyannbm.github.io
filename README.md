@@ -40,4 +40,15 @@ This is a comprehensive list of courses I took in 4th semester
 	
 ## Hobbies and Interests
 
+Some of my hobbies are   
+
+1. Gaming
+2. Coding
+3. Reading History books
  
+Some of my interests are
+
+1. Math
+2. Theretical Computer Science
+3. Machine Learning
+4. Philosophy specifically Ludwig Wittgenstein's work
