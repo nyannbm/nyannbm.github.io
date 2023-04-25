@@ -1,29 +1,10 @@
-Nishant's Website
+Nishant's Profile
 =================
 
-This is a website created using github pages and markdown.  
-Paragraph change.  
-This is a sentence with *italic* and **bold** text.  
-> This one is a quote.  
->
-> This one is also a quote.
+## About me
 
->different quote.
->>nested quote.
-
-1. List
-2. With
-3. Numbers
-
-- List
-- Without
-- Numbers
+I am **Nishant Kumar Singh**, a rising junior at IIT Goa, majoring in Computer science and Engineering.
+![profile pic](./download.jpg)
 
 
-***
-
-
-
-Here's a webpage you might like [nLab](https://ncatlab.org/nlab/show/HomePage)
-
-![Alexander Grothendieck](./download.jpg)
+## Education
