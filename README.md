@@ -9,6 +9,7 @@ I am interested in Computer Science and Math, specifically Graph theory and Fini
 
 
 ## Education
+
 | Sr. no.  | Academic Year   | Standard      | School  |
 |----------|-----------------|---------------|---------|
 |    1.    |  2009-2019      |  1-10         | AFS     |
@@ -36,4 +37,7 @@ This is a comprehensive list of courses I took in 4th semester
 	- Software tools
 	- *Prof. Clint P. George*
 	- [Course Page for CS102](https://clintpgeorge.github.io/cs-102/spring-2023/)
-	 
+	
+## Hobbies and Interests
+
+ 
