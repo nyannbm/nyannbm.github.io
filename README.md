@@ -43,12 +43,30 @@ This is a comprehensive list of courses I took in 4th semester
 Some of my hobbies are   
 
 1. Gaming
-2. Coding
+
+    I specifically like the games, CSGO, Dota 2 and League of Legends.
+
+2.  Coding
+
+    I code daily on Leetcode and you can find me on the contest rankings of Codechef and Codeforces every once in a while.
+
 3. Reading History books
+
+    I suggest reading Vodka Politics: Alcohol, Autocracy, and the Secret History by Mark Lawrence
  
 Some of my interests are
 
 1. Math
+
+    I would like to read geometric graph theory when I do get the time, currently I am reading Galois theory from Dummit and Foote
+
 2. Theretical Computer Science
-3. Machine Learning
-4. Philosophy specifically Ludwig Wittgenstein's work
+
+    I am reading D.B. West to get better at graph theory in CS.
+
+3. Philosophy specifically Ludwig Wittgenstein's work
+
+    Here's a  picture of my favorite Philosopher 
+    ![Ludwig Wittgenstein](./images.jpeg)
+
+4. Garage music	- a genre I like
