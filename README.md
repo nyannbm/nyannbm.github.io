@@ -66,7 +66,7 @@ Some of my interests are
 
 3. Philosophy specifically Ludwig Wittgenstein's work
 
-    Here's a  picture of my favorite Philosopher 
+    Here's a  picture of my favorite Philosopher   
     ![Ludwig Wittgenstein](./images.jpeg)
 
 4. Garage music	- a genre I like
